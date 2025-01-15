@@ -1,8 +1,9 @@
 # Unity Hierarchical State Machine
-A hierarchical state machine, supporting infinite nested states. Below you can find a quick explanation on how to set the project up.
+> Author: Okan Can Özbek (2025-01-15) for Unity 6000.x
 
-1. First clone or fork the repository to your local machine.
-2. Then simply put the code in your Unity scripts folder.
+A hierarchical state machine, supporting infinite nested states. Making prototyping Unity projects easier by implementing all the boilerplate classes and code for a smooth functioning hierachical finite state machine. There could still be a few quirks in the project, if you are able to find one don't hesitate to submit a ticket, I will do my best to fix it as soon as possible. Plans for the future include adding Unit Tests, and converting this project into a Unity package. Below you can find a quick explanation on how to set the project up.
+
+* For now there isn't an Unity package that you can install, so the best way of installing this is by directly cloning/forking the project.
 
 # Setup
 1. Create a new child factory called something along the lines of `ExampleStateFactory.cs` this inherits from `StateFactory`

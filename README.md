@@ -1,3 +1,4 @@
+![Cult of the Lamb banner art](https://cdn2.steamgriddb.com/grid/f3747b8108c7c49cacd81747b7069e7e.png)
 # Unity Hierarchical State Machine
 > Author: Okan Can Özbek (2025-01-15) for Unity 6000.x
 
